@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "205537679918",
+    "project_id": "todo-app-realitime",
+    "storage_bucket": "todo-app-realitime.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205537679918:android:38aca4efdb76c7dd421dbf",
+        "android_client_info": {
+          "package_name": "com.example.multi_user_todo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfSfm45JdX5vyy-wXFvtnCmlfG970WEMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
